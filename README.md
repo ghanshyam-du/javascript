@@ -14,4 +14,19 @@
 # The value of a javascript variable can be changed during the execution of a program.
 
 # L2- Var, let and const
-# 
+
+# Var is globally scoped while let & const are blcok scoped 
+# Var can be updated & re-declared within its scope
+# let can be updated but not re-declared
+# const can neither be updated nor be re-declared
+# var variables are initialized with undefined whereas let and const variable are not intialized;
+# Const must be initialized during declaration unlike let and var 
+
+
+# Primitives and objects in js
+
+<!-- let a = null;
+let b = 245;
+let c = ture;
+let e = "ghanshyam"
+let f= Symbol("i an a symbol") -->

@@ -24,9 +24,26 @@
 
 
 # Primitives and objects in js
+# -------> Primitive in js
+   
+#   Primitive data types are a set of basic data types in js
+# <!-- let a = null;
+# let b = 245;
+# let c = ture;
+# let d = BigInt("345")
+# let e = "ghanshyam"
+# let f= Symbol("i an a symbol") 
 
-<!-- let a = null;
-let b = 245;
-let c = ture;
-let e = "ghanshyam"
-let f= Symbol("i an a symbol") -->
+# -------> Objects non primitive data type
+#   an object in js can be created as follows
+#       const item = {
+#            name: "ghanshyam",
+#            number: 18,
+#
+#       }
+
+# Expressions & Conditions
+
+# a fragment of code that prduces a value is called an expression. every value writ
+
+
